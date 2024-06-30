@@ -1,0 +1,8 @@
+{
+  "furniture": [
+    { "id": 1, "category": "bathroom", "name": "Bathroom Cabinet", "image": "bathroom_cabinet.jpg" },
+    { "id": 2, "category": "bedroom", "name": "Bed", "image": "bed.jpg" },
+    { "id": 3, "category": "kitchen", "name": "Kitchen Table", "image": "kitchen_table.jpg" },
+    { "id": 4, "category": "livingarea", "name": "Sofa", "image": "sofa.jpg" }
+  ]
+}
